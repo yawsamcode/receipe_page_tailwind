@@ -27,7 +27,6 @@ This is a solution to the [Receipe Page challenge on Frontend Mentor]. Frontend 
 ## 📸Project Screenshots <a id="screenshot"></a>
 
 <img src="https://res.cloudinary.com/dlykqebw2/image/upload/v1706232729/screencapture-127-0-0-1-5500-public-index-html-2024-01-26-01_24_39_rblpsv.png">
-<img src="https://res.cloudinary.com/dlykqebw2/image/upload/v1706232834/screencapture-127-0-0-1-5500-public-index-html-2024-01-26-01_32_43_nu7gb8.png" alt="shields">
 
   
 ## 💻 Built with <a id="built-with"></a>
