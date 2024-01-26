@@ -42,8 +42,8 @@ Technologies used in the project:
 <p>I challenged myself to create this page using tailwindcss.
 To Achieve this I watched some basic tutorials on youtube about talwindcss and then 
 i jumped into the documentation to get all the classes i needed to coplete this. 
-The [Tailwindcss](https://tailwindcss.com/docs/installation/)
-documentation has really been helpful. I really appreciate the team. 
+The <a href="https://tailwindcss.com/docs/installation/">Tailwindcss</a>
+documentation has really been helpful. Thanks to the team team. 
 This project has really boost my confidense a in using tailwindcss.
 Looking to do more exploits.</p>
 
