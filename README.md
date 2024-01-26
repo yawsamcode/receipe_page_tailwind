@@ -21,7 +21,7 @@ This is a solution to the [Receipe Page challenge on Frontend Mentor]. Frontend 
 
 ## 🚀 Demo <a id="demo"></a>
 
-<h4><a href="https://yawsamcode.github.io/single-price-grid-component/">  Visit Demo 👉</a></h4>
+<h4><a href="https://yawsamcode.github.io/receipe_page_tailwind/">  Visit Demo 👉</a></h4>
 
 
 ## 📸Project Screenshots <a id="screenshot"></a>
